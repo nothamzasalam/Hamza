@@ -1,0 +1,1 @@
+Now, when you log in as id: admin (pw: adminpass) or id: teacher (pw:teacherpass), you should be able to directly click on cells in the timetable to edit them, and the "Save Timetable" button will be visible and functional. Logging in as id: student (pw: studentpass) will show the timetable, but the cells will not be editable.
